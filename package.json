@@ -1,6 +1,6 @@
 {
   "name": "emoteglobals",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Vários emoticons para usar",
   "main": "index.js",
   "scripts": {
