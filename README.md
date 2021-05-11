@@ -6,7 +6,7 @@ npm i emoteglobals
 ## Usando:
 ```node
 const emote = require('emoteglobals');
-console.log(emote[1].icon);
+console.log(emote.icon[1].icon);
 ```
 
 ```json
